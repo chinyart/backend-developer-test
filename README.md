@@ -1,4 +1,4 @@
-# Software Developer Application Test
+# Golang simple RESTFUL Api Example
 
 Create a API that serves the latest scores of fixtures of matches in a “**Mock Premier League**”
 
